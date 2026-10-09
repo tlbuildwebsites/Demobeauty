@@ -1,0 +1,154 @@
+QUELLEN – Demobeauty Demo-Website
+========================================
+
+Alle Fotos und Videos stammen von Pexels (https://www.pexels.com) und stehen unter der
+Pexels-Lizenz (https://www.pexels.com/license/): kostenlos nutzbar, keine Namensnennung nötig.
+Die Fotografinnen und Fotografen werden hier trotzdem gerne genannt.
+Bilder wurden verkleinert und ins WebP-Format konvertiert; Videos in komprimierter 720p/540p-Version.
+Es wurden keine Bilder echter Betriebe verwendet. Personen im Team sind fiktiv.
+
+VIDEOS
+------
+assets/video/hero-salon.mp4 (+ Variante -sm.mp4 und -poster.webp)
+  Von: RDNE Stock project · https://www.pexels.com/video/beauty-products-on-the-shelves-7754499/
+  Stylish beauty salon with shelves full of cosmetic products, day time.
+
+assets/video/hero-nails.mp4 (+ Variante -sm.mp4 und -poster.webp)
+  Von: RDNE Stock project · https://www.pexels.com/video/person-applying-nail-polish-7754856/
+  Close-up of a manicure procedure applying nail polish in a salon.
+
+assets/video/hero-facial.mp4 (+ Variante -sm.mp4 und -poster.webp)
+  Von: Polina Tankilevitch · https://www.pexels.com/video/woman-having-her-beauty-skincare-routine-3741665/
+  Gentle facial treatment with focus on skincare and relaxation.
+
+FOTOS
+-----
+assets/img/brow-shaping.webp
+  Von: Alexander Mass · https://www.pexels.com/photo/professional-eyebrow-shaping-at-beauty-salon-29588096/
+  A beautician shaping a young woman's eyebrows in a serene salon setting.
+
+assets/img/brow-smile-vorher.webp
+  Von: (digital bearbeitete Version von assets/img/brow-smile.webp)
+  Simulierte «Vorher»-Ansicht für den Demo-Schieberegler
+
+assets/img/brow-smile.webp
+  Von: Gustavo Fring · https://www.pexels.com/photo/woman-painting-eyebrows-with-a-brush-in-black-gloves-7446904/
+  A woman enjoys her eyebrow treatment with a smile, showcasing beauty and self-care.
+
+assets/img/cosmetologist.webp
+  Von: Anna Shvets · https://www.pexels.com/photo/a-woman-having-facial-treatment-4586753/
+  Cosmetologist performing a relaxing facial treatment in an aesthetic clinic setting.
+
+assets/img/eye-closeup.webp
+  Von: Milangel Melendez · https://www.pexels.com/photo/close-up-of-an-eye-with-glued-eyelashes-21412169/
+  Detailed close-up of a woman's eye with styled eyelashes and groomed eyebrow.
+
+assets/img/facial-mask.webp
+  Von: Denys Mikhalevych · https://www.pexels.com/photo/unrecognizable-beautician-removing-clay-mask-from-woman-face-12115040/
+  Woman receiving a facial treatment at spa, with beautician applying mask in a relaxing setting.
+
+assets/img/facial-massage.webp
+  Von: Tima Miroshnichenko · https://www.pexels.com/photo/close-up-shot-of-a-person-doing-a-massage-6187305/
+  Experience ultimate relaxation with a calming facial massage in a tranquil spa setting.
+
+assets/img/facial-relax.webp
+  Von: DΛVΞ GΛRCIΛ · https://www.pexels.com/photo/relaxing-spa-facial-treatment-session-37229301/
+  Close-up of a woman receiving a soothing facial mask at a spa, promoting relaxation and skincare.
+
+assets/img/facial-spa-vorher.webp
+  Von: (digital bearbeitete Version von assets/img/facial-spa.webp)
+  Simulierte «Vorher»-Ansicht für den Demo-Schieberegler
+
+assets/img/facial-spa.webp
+  Von: Gustavo Fring · https://www.pexels.com/photo/woman-getting-a-facial-treatment-7446659/
+  Aesthetician providing a rejuvenating facial treatment to a client in a modern spa clinic setup.
+
+assets/img/lash-extension.webp
+  Von: Kerim Eveyik · https://www.pexels.com/photo/close-up-of-eyelash-extension-procedure-36930354/
+  Detailed close-up of an eyelash extension application in a beauty salon.
+
+assets/img/lash-flatlay.webp
+  Von: Nataliya Vaitkevich · https://www.pexels.com/photo/false-eyelashes-beside-the-tweezers-on-pink-surface-8558536/
+  Flat lay of false eyelashes with tweezers on a pink surface, ideal for beauty and cosmetics content.
+
+assets/img/lash-salon.webp
+  Von: Nataliya Vaitkevich · https://www.pexels.com/photo/woman-working-on-eyelash-lift-on-patient-5128222/
+  Beautician applying eyelash extensions in a serene salon setting, demonstrating precision and skill.
+
+assets/img/nails-floral.webp
+  Von: Salim Da · https://www.pexels.com/photo/close-up-of-elegant-manicured-nails-with-floral-design-34885842/
+  A detailed close-up of manicured nails with pink polish and floral accents, set against a dark background.
+
+assets/img/nails-gel.webp
+  Von: kajanja  brand · https://www.pexels.com/photo/hand-holding-a-nail-polish-5681794/
+  Close-up of a woman's hand holding a gel nail polish bottle with manicure against a light background.
+
+assets/img/nails-glitter.webp
+  Von: Oswal Darks · https://www.pexels.com/photo/hands-with-professional-manicure-done-16363470/
+  Close-up of a woman's hands showing elegant glitter nail art on a pink fabric background.
+
+assets/img/nails-pastel-vorher.webp
+  Von: (digital bearbeitete Version von assets/img/nails-pastel.webp)
+  Simulierte «Vorher»-Ansicht für den Demo-Schieberegler
+
+assets/img/nails-pastel.webp
+  Von: Dagmara Dombrovska · https://www.pexels.com/photo/crop-faceless-woman-showing-manicure-with-nail-art-6830805/
+  Close-up of a woman's elegant manicure featuring a jellyfish design on soft pastel nails.
+
+assets/img/pedicure.webp
+  Von: Andrea Mosti · https://www.pexels.com/photo/woman-getting-pedicure-done-17056220/
+  Detailed view of a pedicure session with pink nail polish applied by a beautician wearing gloves.
+
+assets/img/products-pink.webp
+  Von: Deepa Nishad · https://www.pexels.com/photo/cosmetic-products-on-a-pink-background-27544682/
+  White cosmetic containers and small vase on a pink background showcasing modern design and simplicity.
+
+assets/img/roses.webp
+  Von: Victoria Sorokun · https://www.pexels.com/photo/elegant-pink-roses-bouquet-against-neutral-background-30894321/
+  A beautiful bouquet of pink roses set against a neutral backdrop, showcasing floral elegance.
+
+assets/img/skin-cream.webp
+  Von: Yaroslav Shuraev · https://www.pexels.com/photo/a-woman-applying-cream-on-face-6810869/
+  A woman gently applies skincare cream on her face indoors with natural light.
+
+assets/img/skincare-tools.webp
+  Von: Polina ⠀ · https://www.pexels.com/photo/close-up-shot-of-a-jade-roller-5928036/
+  Aesthetic arrangement of skincare tools and cream on a marble surface enhancing beauty routines.
+
+assets/img/spa-room-2.webp
+  Von: Max Vakhtbovych · https://www.pexels.com/photo/massage-table-in-modern-workspace-with-shiny-lamps-6899532/
+  Stylish and serene spa room with pink accents, showcasing modern interior design.
+
+assets/img/spa-room.webp
+  Von: Max Vakhtbovych · https://www.pexels.com/photo/table-for-beauty-procedure-in-clinic-6899554/
+  Contemporary spa room featuring a massage table, pink cushion, and elegant decor for relaxation.
+
+assets/img/team-1.webp
+  Von: Nataliya Vaitkevich · https://www.pexels.com/photo/woman-in-white-top-and-blue-skirt-5128190/
+  Smiling makeup artist with braided hair and brushes, wearing gloves in a studio setting.
+
+assets/img/team-2.webp
+  Von: Sandro  Tavares · https://www.pexels.com/photo/studio-shot-of-a-young-woman-in-an-apron-holding-a-nail-polish-17909398/
+  Young beautician in white, holding nail polish bottle in studio setting.
+
+assets/img/team-3.webp
+  Von: Maria Isadora · https://www.pexels.com/photo/smiling-manicurist-and-holding-electric-drill-18090215/
+  Smiling female manicurist with glasses holding a nail drill in a studio setting.
+
+assets/img/team-4.webp
+  Von: Nataliya Vaitkevich · https://www.pexels.com/photo/a-woman-holding-make-up-brushes-while-smiling-at-the-camera-8558238/
+  Smiling woman with short hair holding makeup brushes indoors, perfect for cosmetology and beauty themes.
+
+assets/img/waxing.webp
+  Von: Larysa Stratiichuk · https://www.pexels.com/photo/close-up-of-waxing-procedure-in-salon-35103884/
+  A professional beauty treatment waxing session in a salon setting.
+
+SCHRIFTEN
+---------
+Cormorant Garamond – Christian Thalmann, SIL Open Font License 1.1 (assets/fonts/OFL-cormorant.txt)
+Jost – Owen Earl (indestructible type*), SIL Open Font License 1.1 (assets/fonts/OFL-jost.txt)
+Bezogen über Fontsource (https://fontsource.org), lokal eingebunden.
+
+LOGO, ICONS, ORNAMENTE, KARTE
+-----------------------------
+Eigens für diese Demo gestaltete SVG-Grafiken.
